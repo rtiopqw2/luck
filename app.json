@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/rtiopqw2/luck",
-  "repository": "https://github.com/rtiopqw2/luck",
+  "website": "https://github.com/rtiopqw2/sarccrrsaer",
+  "repository": "https://github.com/rtiopqw2/sarccrrsaer",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
